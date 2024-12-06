@@ -18,7 +18,7 @@ Renux is a simple Python application that provides a graphical user interface (G
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/renux.git
+    git clone https://github.com/Mhtrobot/renux.git
     cd renux
     ```
 
